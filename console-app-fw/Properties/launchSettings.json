@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "console-app-fw": {
+      "commandName": "Project",
+      "commandLineArgs": "hoge run"
+    }
+  }
+}
