@@ -7,6 +7,9 @@ namespace console_setting_log
     {
         static NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
 
+        /// <summary>
+        /// main
+        /// </summary>
         static void Main(string[] args)
         {
             // 設定ファイル
